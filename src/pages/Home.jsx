@@ -2,7 +2,7 @@ import React from 'react'
 import Photo from '../components/Photo'
 import Profileheader from '../components/Profileheader'
 import About from '../components/About'
-import Video from '../components/video'
+import Video from "../components/Video"
 import PostCard from '../components/common/PostCard'
 
 const Home = () => {
@@ -14,7 +14,7 @@ const Home = () => {
 
           <About />
           <Photo />
-          <Video />
+         <Video/>
         </div>
         <PostCard />
       </div>
