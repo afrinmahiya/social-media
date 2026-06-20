@@ -1,6 +1,6 @@
 import React from 'react'
 import { BsThreeDots } from "react-icons/bs";
-
+//ekhan theke kaj shuru
 const About = () => {
     return (
         <div className='w-[283px] pt-[19px] pr-[26px]  pl-[27px] pb-[29px] rounded-3xl bg-white mr-[15px] mb-[12px] ml-[33px]  font-Poppins'>
